@@ -21,7 +21,6 @@ Este proyecto es una aplicación de lista de tareas pendientes desarrollada con 
 ## Instalación
 
 1. Clona el repositorio:
-   ```bash
    git clone https://github.com/Omarsx1/TodoList-_App.git
 
 
